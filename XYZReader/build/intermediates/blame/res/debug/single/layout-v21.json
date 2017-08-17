@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/tfbarbosa/.android/build-cache/7cba56117aff3b8ce9728518d0127c565eaf81a7/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/tfbarbosa/.android/build-cache/7cba56117aff3b8ce9728518d0127c565eaf81a7/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/tfbarbosa/.android/build-cache/7cba56117aff3b8ce9728518d0127c565eaf81a7/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/tfbarbosa/.android/build-cache/7cba56117aff3b8ce9728518d0127c565eaf81a7/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

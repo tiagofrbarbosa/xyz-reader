@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/6abfbc68f6b0fb8c5c929cf332836aba5f4f9157/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec3360994c4007c282a4b651723603e82682b601">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_141294b6c1a8f8fffc1593405f8927adf2732325/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f33cfa6f1ef3546c25ecdc0dbde438274697fc45">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_486a5ce6f16874a452937a2b63660d047230d80e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/05446d2d4793e977e08d72b5e8f3e69bea2dedf9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb4e08fa809312a5464743c2bccb356eb7f891e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_1b52a9159e3198951599dbec4a4f31578ef0f805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/691007924aaa26dd0e8c96bdac8a3980095622e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31c7d6e4713bafb07a2631343c6826beb3f1aafc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/ad264450c350816c38b9650f110d6c22b19b0444/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eb95d8e30e74863a50707ace1bead28cb1e8b203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/b2ff48e34ee947607b1b6b1dc264398ba75780a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53da9eba905bf1c522ad6be232dac2dd38eeb6f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/971711262b2720dfab4aa0d494054a660b792a7a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d2e7dfdd116580ccf824d681449f4d7ac3a737d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/8c6872b9c26c02be2eb448fbb6be8bc6a0503fe4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3b920c3e59bd0f8d5abefe338b286856df2f1363/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1e4f987d359f0a146962d2dff4182711becabae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/7cba56117aff3b8ce9728518d0127c565eaf81a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25ab239e09e70c833dc5ae7487bb785f6b28f122/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/a0b81bf3ceb4f42c6d4bb3d4cc9b60ebc53c5859/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd3789165189696e766dbf8158b48526b05b3a59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_4c341ad9900ea42c53d0f6b66b301326a5b38894/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/2fb5e597c227a304e0c5f2d7a8bbe7b4761d3680/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48c663040a89f9fe1c8c4fad683dbe4256929521/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/9776eebdd6f6606810971034dee850017a36ab3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5a106118cb8a114f87153daf2dda9a80cf28481/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/943190af2b318af8b8e40594eaaf0b5ddc84f603/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20b3aedaae18ad5c1e2b578fdf91d99ab1406af4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_67f64b950bc10700a4c744d7000d93284db686cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/0e2c4b98e3ea88abe0e60e39d36e9a30c7286e4c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0004438a9b42d3cca09efa2683bec42eea83d143/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_e7ae001b4d5655a41af58d51b29e54c4446c0476/classes.dex" />
+    </item>
+
+</items>
