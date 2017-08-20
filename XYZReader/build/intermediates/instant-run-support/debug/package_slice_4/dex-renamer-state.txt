@@ -1,4 +1,4 @@
-#Wed Aug 16 22:21:16 BRT 2017
+#Sun Aug 20 17:24:57 BRT 2017
 base.0=/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
 renamed.0=classes.dex
 file.0=/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex
