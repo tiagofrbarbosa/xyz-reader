@@ -58,6 +58,11 @@ public class ArticleListActivity extends AppCompatActivity implements
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article_list);
 
+        mToolbar = (Toolbar) findViewById(R.id.toolbar);
+        mToolbar.setTitle("XYZ Reader");
+        mToolbar.setTitleTextColor(getResources().getColor(R.color.theme_accent));
+        setSupportActionBar(mToolbar);
+
         mSwipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.swipe_refresh_layout);
 
         mRecyclerView = (RecyclerView) findViewById(R.id.recycler_view);

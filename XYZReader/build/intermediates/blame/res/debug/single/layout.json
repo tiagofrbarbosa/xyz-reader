@@ -112,6 +112,10 @@
         "source": "/home/tfbarbosa/.android/build-cache/7cba56117aff3b8ce9728518d0127c565eaf81a7/output/res/layout/abc_action_menu_layout.xml"
     },
     {
+        "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/layout/include_toolbar.xml",
+        "source": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/src/main/res/layout/include_toolbar.xml"
+    },
+    {
         "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/home/tfbarbosa/.android/build-cache/7cba56117aff3b8ce9728518d0127c565eaf81a7/output/res/layout/notification_template_media.xml"
     },
