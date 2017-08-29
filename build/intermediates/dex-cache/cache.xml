@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="242cce9fc3decb40880bd094d1b8e0b45db24a95">
+        sha1="df3f9b859e369e42eb4db6c0810b48d6f303da85">
         <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_486a5ce6f16874a452937a2b63660d047230d80e/classes.dex" />
     </item>
     <item
@@ -54,6 +54,15 @@
         revision="25.0.2"
         sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
         <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/pre-dexed/debug/classes_d2e7dfdd116580ccf824d681449f4d7ac3a737d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/3de19d8612714ecc655b851d5a3bb17b86030b29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d51c0663257ac5b42a4a1e60f3a3927aa477ff3d/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -108,6 +117,15 @@
         revision="25.0.2"
         sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
         <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/pre-dexed/debug/classes_25ab239e09e70c833dc5ae7487bb785f6b28f122.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/tfbarbosa/.android/build-cache/468c9af4e2a8f4fbb017c739f212f3941c0814cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9bb06dd30e44e03fc58652302f9840b315498ea1/classes.dex" />
     </item>
     <item
         is-multidex="false"

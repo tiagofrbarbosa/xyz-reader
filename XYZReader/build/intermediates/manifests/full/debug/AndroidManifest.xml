@@ -48,6 +48,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".ui.ArticleListActivity" />
         </activity>
+        <activity android:name="com.example.xyzreader.ui.ParalaxDetailActivity" />
 
         <service
             android:name="com.example.xyzreader.data.UpdaterService"

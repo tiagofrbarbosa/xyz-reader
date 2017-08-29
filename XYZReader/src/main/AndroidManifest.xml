@@ -38,6 +38,8 @@
                 android:value=".ui.ArticleListActivity" />
         </activity>
 
+        <activity android:name=".ui.ParalaxDetailActivity" />
+
         <service android:name=".data.UpdaterService"
             android:exported="false" />
 

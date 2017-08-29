@@ -68,6 +68,10 @@
         "source": "/home/tfbarbosa/.android/build-cache/7cba56117aff3b8ce9728518d0127c565eaf81a7/output/res/color/abc_primary_text_material_light.xml"
     },
     {
+        "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/tfbarbosa/.android/build-cache/468c9af4e2a8f4fbb017c739f212f3941c0814cd/output/res/color/design_error.xml"
+    },
+    {
         "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
         "source": "/home/tfbarbosa/.android/build-cache/7cba56117aff3b8ce9728518d0127c565eaf81a7/output/res/color/abc_secondary_text_material_light.xml"
     },
@@ -78,5 +82,9 @@
     {
         "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/home/tfbarbosa/.android/build-cache/7cba56117aff3b8ce9728518d0127c565eaf81a7/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/tfbarbosa/.android/build-cache/468c9af4e2a8f4fbb017c739f212f3941c0814cd/output/res/color/design_tint_password_toggle.xml"
     }
 ]
