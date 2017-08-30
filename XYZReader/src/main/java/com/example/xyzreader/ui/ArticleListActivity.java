@@ -148,7 +148,7 @@ public class ArticleListActivity extends AppCompatActivity implements
                 @Override
                 public void onClick(View view) {
                     //startActivity(new Intent(Intent.ACTION_VIEW,
-                    //        ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
+                            //ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
                     startActivity(new Intent(view.getContext(),ParalaxDetailActivity.class));
                 }
             });
