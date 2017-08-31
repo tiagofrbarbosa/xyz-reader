@@ -6,7 +6,7 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1504060092647"
+    timestamp="1504146886695"
     token="4695337877888557104"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -29,7 +29,7 @@
 
     <build
         build-mode="FULL"
-        timestamp="1504056215171"
+        timestamp="1504139533269"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -70,24 +70,29 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1504059947060"
+        timestamp="1504143944614"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
             location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
+        <artifact
+            location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1504143995737"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1504060092647"
+        timestamp="1504146886695"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
