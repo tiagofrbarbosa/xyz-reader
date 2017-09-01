@@ -36,19 +36,17 @@
             android:name="com.example.xyzreader.ui.ArticleDetailActivity"
             android:parentActivityName="com.example.xyzreader.ui.ArticleListActivity"
             android:theme="@style/AppTheme.NoActionBar" >
-            <intent-filter>
-                <action android:name="android.intent.action.VIEW" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-
-                <data android:mimeType="vnd.android.cursor.item/vnd.com.example.xyzreader.items" />
-            </intent-filter>
-
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".ui.ArticleListActivity" />
         </activity>
-        <activity android:name="com.example.xyzreader.ui.ParalaxDetailActivity" />
+        <activity
+            android:name="com.example.xyzreader.ui.ParalaxDetailActivity"
+            android:parentActivityName="com.example.xyzreader.ui.ArticleListActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ui.ArticleListActivity" />
+        </activity>
 
         <service
             android:name="com.example.xyzreader.data.UpdaterService"

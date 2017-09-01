@@ -3275,7 +3275,14 @@
                     "endOffset": 49454
                 },
                 "from": {
-                    "file": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/src/main/res/values/macro_layout.xml"
+                    "file": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/src/main/res/values/macro_layout.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 136,
+                        "endColumn": 49,
+                        "endOffset": 181
+                    }
                 }
             },
             {
@@ -3949,15 +3956,7 @@
                     "endOffset": 54374
                 },
                 "from": {
-                    "file": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 33,
-                        "startColumn": 4,
-                        "startOffset": 1291,
-                        "endLine": 37,
-                        "endColumn": 12,
-                        "endOffset": 1563
-                    }
+                    "file": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/src/main/res/values/styles.xml"
                 }
             },
             {

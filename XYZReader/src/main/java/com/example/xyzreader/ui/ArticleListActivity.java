@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.Loader;
 import android.database.Cursor;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.ActionBarActivity;
@@ -149,7 +150,11 @@ public class ArticleListActivity extends AppCompatActivity implements
                 public void onClick(View view) {
                     //startActivity(new Intent(Intent.ACTION_VIEW,
                             //ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()))));
-                    startActivity(new Intent(view.getContext(),ParalaxDetailActivity.class));
+
+                    Uri uri = ItemsContract.Items.buildItemUri(getItemId(vh.getAdapterPosition()));
+                    Intent intent = new Intent(view.getContext(), ParalaxDetailActivity.class);
+                    intent.putExtra("item_uri", uri.toString());
+                    startActivity(intent);
                 }
             });
             return vh;
