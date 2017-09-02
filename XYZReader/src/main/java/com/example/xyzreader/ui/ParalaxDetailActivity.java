@@ -2,12 +2,14 @@ package com.example.xyzreader.ui;
 
 import android.database.Cursor;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.design.widget.CollapsingToolbarLayout;
 import android.app.LoaderManager;
 import android.content.Loader;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.text.Html;
 import android.util.Log;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -43,7 +45,12 @@ public class ParalaxDetailActivity extends AppCompatActivity{
         collapsingToolbar.setTitle(mCursor.getString(ma.getTitle()));
 
         TextView textView = (TextView) findViewById(R.id.article_text);
-        textView.setText(mCursor.getString(ma.getBody()));
+
+        if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
+            textView.setText(Html.fromHtml(mCursor.getString(ma.getBody()), Html.FROM_HTML_MODE_COMPACT));
+        }else{
+            textView.setText(Html.fromHtml(mCursor.getString(ma.getBody())));
+        }
 
         ImageView imageView = (ImageView) findViewById(R.id.header);
         Picasso.with(this).load(mCursor.getString(ma.getImage())).into(imageView);
