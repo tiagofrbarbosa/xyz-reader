@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- toolbar -->
+    <dimen name="toolbar_height">48dp</dimen>
+
+    <!-- recyclerview -->
+    <dimen name="list_top_margin">49dp</dimen>
+
+</resources>

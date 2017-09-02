@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/anim-v21/fab_state_list_anim.xml",
-        "source": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/src/main/res/anim-v21/fab_state_list_anim.xml"
-    },
-    {
         "merged": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/home/tfbarbosa/.android/build-cache/468c9af4e2a8f4fbb017c739f212f3941c0814cd/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },

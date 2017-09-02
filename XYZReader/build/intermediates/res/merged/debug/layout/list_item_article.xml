@@ -2,15 +2,15 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:layout_marginLeft="8dp"
-    android:layout_marginRight="8dp"
-    android:layout_marginTop="8dp"
-    android:layout_marginBottom="8dp"
+    android:layout_marginLeft="@dimen/cardview_margin"
+    android:layout_marginRight="@dimen/cardview_margin"
+    android:layout_marginTop="@dimen/cardview_margin"
+    android:layout_marginBottom="@dimen/cardview_margin"
     android:clickable="true"
     android:focusable="true"
     android:foreground="?selectableItemBackground"
-    app:cardCornerRadius="2dp"
-    app:cardElevation="2dp">
+    app:cardCornerRadius="@dimen/cardview_corner"
+    app:cardElevation="@dimen/cardview_elevation">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -21,7 +21,7 @@
         <com.example.xyzreader.ui.DynamicHeightNetworkImageView
             android:id="@+id/thumbnail"
             android:layout_width="match_parent"
-            android:layout_height="100dp"
+            android:layout_height="@dimen/dinamic_height_imageview"
             android:scaleType="centerCrop"
             android:layout_gravity="center"
             android:background="@color/photo_placeholder" />
@@ -30,23 +30,23 @@
             android:id="@+id/article_title"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="24sp"
-            android:paddingLeft="16dp"
-            android:paddingTop="24dp"
-            android:paddingRight="16dp"
-            android:paddingBottom="16dp"
+            android:textSize="@dimen/title_size"
+            android:paddingLeft="@dimen/textview_padding_horizontal"
+            android:paddingTop="@dimen/textview_padding_top"
+            android:paddingRight="@dimen/textview_padding_horizontal"
+            android:paddingBottom="@dimen/textview_padding_bottom"
             android:textColor="@color/ltgray"
             android:ellipsize="end"
             android:maxLines="4" />
 
         <TextView
             android:id="@+id/article_subtitle"
-            android:textSize="14sp"
+            android:textSize="@dimen/subtitle_size"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingLeft="16dp"
-            android:paddingRight="16dp"
-            android:paddingBottom="16dp"
+            android:paddingLeft="@dimen/textview_padding_horizontal"
+            android:paddingRight="@dimen/textview_padding_horizontal"
+            android:paddingBottom="@dimen/textview_padding_bottom"
             android:textColor="@color/cardview_sub_text"
             android:background="@color/cardview_sub_text_background"
             android:maxLines="2"

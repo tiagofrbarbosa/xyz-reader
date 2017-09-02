@@ -9,7 +9,7 @@
         <android.support.design.widget.AppBarLayout
             android:id="@+id/appbar"
             android:layout_width="match_parent"
-            android:layout_height="192dp"
+            android:layout_height="@dimen/toolbar_expanded_height"
             android:fitsSystemWindows="true"
             android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
 
@@ -33,12 +33,12 @@
                         <android.support.v7.widget.Toolbar
                             android:id="@+id/toolbar"
                             android:layout_width="match_parent"
-                            android:layout_height="56dp"
-                            android:paddingLeft="16dp"
-                            android:paddingRight="16dp"
+                            android:layout_height="?attr/actionBarSize"
+                            android:paddingLeft="@dimen/toolbar_padding_horizontal"
+                            android:paddingRight="@dimen/toolbar_padding_horizontal"
                             app:layout_collapseMode="pin"
                             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-                            app:elevation="4dp"/>
+                            app:elevation="@dimen/toolbar_elevation"/>
 
                 </android.support.design.widget.CollapsingToolbarLayout>
 
@@ -46,7 +46,7 @@
 
             <android.support.v4.widget.NestedScrollView
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
 
@@ -54,26 +54,26 @@
                                 android:id="@+id/mycard"
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content"
-                                android:layout_marginLeft="8dp"
-                                android:layout_marginRight="8dp"
-                                android:layout_marginTop="8dp"
-                                android:layout_marginBottom="8dp"
+                                android:layout_marginLeft="@dimen/cardview_margin"
+                                android:layout_marginRight="@dimen/cardview_margin"
+                                android:layout_marginTop="@dimen/cardview_margin"
+                                android:layout_marginBottom="@dimen/cardview_margin"
                                 android:clickable="true"
                                 android:focusable="true"
                                 android:background="?selectableItemBackground"
-                                app:cardCornerRadius="2dp"
-                                app:cardElevation="2dp">
+                                app:cardCornerRadius="@dimen/cardview_corner"
+                                app:cardElevation="@dimen/cardview_elevation">
 
                                 <LinearLayout
                                     android:orientation="vertical"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content">
                                     <TextView
-                                        android:textSize="14sp"
-                                        android:paddingRight="16dp"
-                                        android:paddingLeft="16dp"
-                                        android:paddingTop="16dp"
-                                        android:paddingBottom="24dp"
+                                        android:textSize="@dimen/body_size"
+                                        android:paddingRight="@dimen/textview_padding_horizontal"
+                                        android:paddingLeft="@dimen/textview_padding_horizontal"
+                                        android:paddingTop="@dimen/textview_padding_top_article"
+                                        android:paddingBottom="@dimen/textview_paddin_bottom_article"
                                         android:id="@+id/article_text"
                                         android:layout_width="match_parent"
                                         android:layout_height="wrap_content"/>
@@ -87,9 +87,9 @@
         android:id="@+id/my_fab_share"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
+        android:layout_margin="@dimen/fab_margin"
         android:src="@drawable/ic_share"
-        app:elevation="6dp"
+        app:elevation="@dimen/fab_elevation"
         app:layout_anchor="@id/appbar"
         app:layout_anchorGravity="bottom|right|end" />
 

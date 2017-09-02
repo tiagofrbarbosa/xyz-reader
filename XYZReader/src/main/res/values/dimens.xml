@@ -1,11 +1,37 @@
 <resources>
-    <!-- detail -->
-    <dimen name="detail_title_text_size">32sp</dimen>
-    <dimen name="detail_body_text_size">22sp</dimen>
-    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.25</item>
 
-    <dimen name="fab_elevation">2dp</dimen>
-    <dimen name="fab_press_translation_z">6dp</dimen>
-    <dimen name="fab_margin">24dp</dimen>
+    <!-- recyclerview -->
+    <integer name="list_column_count">2</integer>
+    <dimen name="list_side_margin">4dp</dimen>
+    <dimen name="list_top_margin">57dp</dimen>
+    <dimen name="list_bottom_margin">28dp</dimen>
+
+    <!-- cardview -->
+    <dimen name="cardview_margin">8dp</dimen>
+    <dimen name="cardview_corner">2dp</dimen>
+    <dimen name="cardview_elevation">2dp</dimen>
+
+    <!-- imageview -->
+    <dimen name="dinamic_height_imageview">100dp</dimen>
+
+    <!-- textview -->
+    <dimen name="title_size">24sp</dimen>
+    <dimen name="subtitle_size">14sp</dimen>
+    <dimen name="body_size">14sp</dimen>
+    <dimen name="textview_padding_horizontal">16dp</dimen>
+    <dimen name="textview_padding_top">24dp</dimen>
+    <dimen name="textview_padding_bottom">16dp</dimen>
+    <dimen name="textview_padding_top_article">16dp</dimen>
+    <dimen name="textview_paddin_bottom_article">24dp</dimen>
+
+    <!-- toolbar -->
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="toolbar_expanded_height">192dp</dimen>
+    <dimen name="toolbar_padding_horizontal">16dp</dimen>
+    <dimen name="toolbar_elevation">4dp</dimen>
+
+    <!-- Fab -->
+    <dimen name="fab_margin">10dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
 
 </resources>
