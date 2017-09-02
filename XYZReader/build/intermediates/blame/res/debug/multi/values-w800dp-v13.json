@@ -19,8 +19,8 @@
                     "startLine": 3,
                     "startColumn": 4,
                     "startOffset": 109,
-                    "endColumn": 47,
-                    "endOffset": 152
+                    "endColumn": 46,
+                    "endOffset": 151
                 },
                 "from": {
                     "file": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/src/main/res/values-w800dp/macro_layout.xml"
@@ -30,9 +30,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 157,
+                    "startOffset": 156,
                     "endColumn": 55,
-                    "endOffset": 208
+                    "endOffset": 207
                 },
                 "from": {
                     "file": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/src/main/res/values-w800dp/macro_layout.xml"
@@ -42,18 +42,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 213,
+                    "startOffset": 212,
                     "endColumn": 49,
-                    "endOffset": 258
+                    "endOffset": 257
                 },
                 "from": {
                     "file": "/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/src/main/res/values-w800dp/macro_layout.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 161,
+                        "startOffset": 160,
                         "endColumn": 49,
-                        "endOffset": 206
+                        "endOffset": 205
                     }
                 }
             }

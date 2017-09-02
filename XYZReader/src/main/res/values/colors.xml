@@ -16,6 +16,8 @@
 -->
 
 <resources>
+    <color name="cardview_sub_text_background">#6000</color>
+    <color name="cardview_sub_text">#FFFFFF</color>
     <color name="photo_placeholder">#ccc</color>
     <color name="toolbar_text">#FFFFFF</color>
     <color name="theme_primary">#4CAF50</color>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
     abi="x86_64,x86"
-    api-level="25"
+    api-level="21"
     build-mode="COLD"
-    density="420dpi"
+    density="xhdpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1504315551727"
+    timestamp="1504318668512"
     token="4695337877888557104"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -29,14 +29,14 @@
 
     <build
         build-mode="FULL"
-        timestamp="1504309175611"
+        timestamp="1504318206950"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
         <artifact
             location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="SPLIT_MAIN" />
+        <artifact
+            location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
+            type="SPLIT" />
         <artifact
             location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
@@ -70,37 +70,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1504310037061"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1504310746536"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1504314456147"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
-            location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        timestamp="1504315551727"
+        timestamp="1504318668512"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/tfbarbosa/AndroidStudioProjects/xyz-reader/XYZReader/build/outputs/apk/XYZReader-debug.apk"

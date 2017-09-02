@@ -47,7 +47,8 @@
             android:paddingLeft="16dp"
             android:paddingRight="16dp"
             android:paddingBottom="16dp"
-            android:textColor="@color/sub_text"
+            android:textColor="@color/cardview_sub_text"
+            android:background="@color/cardview_sub_text_background"
             android:maxLines="2"
             android:ellipsize="end" />
     </LinearLayout>
