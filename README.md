@@ -13,3 +13,10 @@ Compreender os fundamentos do design do Android.
 Aplicar as diretrizes do Material Design a um aplicativo móvel.
 Separar uma interface em planos.
 Empregar efetivamente transições e movimentos.
+
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/tiagofrbarbosa/xyz-reader/master/screenshots/cap01.png" width="250">
+<img src="https://raw.githubusercontent.com/tiagofrbarbosa/xyz-reader/master/screenshots/cap02.png" width="250">
+<img src="https://raw.githubusercontent.com/tiagofrbarbosa/xyz-reader/master/screenshots/cap03.png" width="250">
+</p>
